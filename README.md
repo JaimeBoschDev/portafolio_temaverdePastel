@@ -4,11 +4,11 @@ Este es el poryecto del portafolio en línea en el que trabaje por semanas, dond
 
 ## Acerca de mí
 
-¡Hola! Soy [Jaiume Bosch], con una pasión por la programación, la innovación y Mi objetivo es [poder ayudarte a hacer más fácil tu trabajo] y contribuir al mundo de [la industria de la tecnología.]. 
+¡Hola! Soy Jaime Bosch, con una pasión por la programación, la innovación y Mi objetivo es poder ayudarte a hacer más fácil tu trabajo y contribuir al mundo de la industria de la tecnología. 
 
 ## Contacto
 
-Puedes contactarme a través de mi  correo electrónico a [ jaimeboschdev@outlook.com ].
+Puedes contactarme a través de mi  correo electrónico a jaimeboschdev@outlook.com 
 
 ¡Gracias por visitar mi portafolio!
 
